@@ -1,11 +1,11 @@
 # Booking-Data-EDA
 This project focuses on performing Exploratory Data Analysis (EDA) on hotel booking data from AtliQ Hotels. The goal is to uncover actionable business insights and help improve operational and strategic decisions.
 
-#📋 Project Summary
+📋 Project Summary
 
 In this analysis, we explore various aspects of hotel booking behavior to understand customer trends, revenue patterns, and operational efficiency. The project also involves data cleaning and handling of missing or inconsistent entries.
 
-#🎯 Objectives
+🎯 Objectives
 
     🔍 Discover booking trends and patterns over time
     📊 Analyze room occupancy rates and revenue performance
@@ -13,7 +13,7 @@ In this analysis, we explore various aspects of hotel booking behavior to unders
     🌦️ Identify seasonal demand changes and potential anomalies
     ⚙️ Clean and prepare the data for accurate analysis
 
-#📈 Outcome
+📈 Outcome
 
 The insights from this EDA can support:
 
